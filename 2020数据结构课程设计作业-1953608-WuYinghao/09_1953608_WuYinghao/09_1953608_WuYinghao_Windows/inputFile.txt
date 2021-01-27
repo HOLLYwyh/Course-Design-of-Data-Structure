@@ -1,0 +1,39 @@
+Course_number	Course_name				Course_hour	Semester		 Prerequisite_course
+c01		Foundation_of_programming_design		5		0		
+c02		Discrete_mathematics			6		0		c01
+c03		Structure&Algorithm			4		0		c01 c02
+c04		Assembly_language				5		0		c01
+c05		Algorithm_design				4		0		c03 c04
+c06		principles_of_computer_composition		6		0
+c07		Principle_of_micro_computer			4		0		c03
+c08		Application_of_Single_Chip_Processor		3		0		c03
+c09		Fundamentals_of_compiling			5		0		c03
+c10		Fundamentals_of_Disk_Operating_System	4		0		c03
+c11		database_principle				5		0		c03
+c12		Advanced_Mathematics			6		0
+c13		Linear_algebra				6		0
+c14		Numerical_analysis				6		0		c12
+c15		General_Physics				4		0		c12
+c16		Computer_culture				3		0
+c17		Computer_systems_organization		6		0		c06
+c18		Computer_networks			5		0		c03
+c19		Data_communication			6		0
+c20		OOP					3		0		c01 c03
+c21		Java					3		0		c01 c03
+c22		C#.net					5		0		c01 c03
+c23		PowerBuilder				5		0		c01 c03
+c24		VC++					3		0		c01 c03
+c25		ASP_programming				5		0		c01 c03
+c26		JSP_programming				5		0		c01 c03
+c27		VB.net					5		0		c01 c03
+c28		Delphi					5		0		c01 c03
+c29		C++Builder				5		0		c01 c03
+c30		English					5		1
+c31		English					5		2
+c32		English					5		3
+c33		English					5		4
+c34		English					5		5
+c35		English					5		6
+c36		English					5		7
+c37		English					5		8
+c38		College_Chinese				3		1
